@@ -8,7 +8,7 @@ import pandas as pd
 import os
 import glob
 
-os.chdir('C:/Users/natas/Downloads/safety/safety/features/')
+os.chdir('C:/Users/natas/Desktop/safety/safety/features/')
 extension = 'csv'
 all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
 
@@ -29,13 +29,13 @@ import glob
 # In[3]:
 
 
-df_label = pd.read_csv("C:/Users/natas/Downloads/safety/safety/labels/part-00000-e9445087-aa0a-433b-a7f6-7f4c19d78ad6-c000.csv")
+df_label = pd.read_csv("C:/Users/natas/Desktop/safety/safety/labels/part-00000-e9445087-aa0a-433b-a7f6-7f4c19d78ad6-c000.csv")
 
 
 # In[4]:
 
 
-df= pd.read_csv('C:/Users/natas/Downloads/safety/safety/features/df.csv')
+df= pd.read_csv('C:/Users/natas/Desktop/safety/safety/features/df.csv')
 
 
 # In[5]:
