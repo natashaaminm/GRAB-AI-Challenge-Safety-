@@ -1,10 +1,13 @@
 # GRAB-AI-Challenge-Safety-
 
 
+
+
+
 GRAB AI Challenge (Safety) Submission
 
 
-In this project, I aim to predict if a ride is dangerous or not. Based on my research, dangerous driving vsn be split into 3 key parts. 1) Speeds above the speed limit 2) Excessive acceleration and deceleration 3) Turning at high speeds
+In this project, I aim to predict if a ride is dangerous or not. Based on my research, dangerous driving can be split into 3 key parts. 1) Speeds above the speed limit 2) Excessive acceleration and deceleration 3) Turning at high speeds
 
 
 New features taking into account these 3 key points were created: 
