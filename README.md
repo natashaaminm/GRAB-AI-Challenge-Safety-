@@ -1,6 +1,9 @@
 # GRAB-AI-Challenge-Safety-
 
+A little bit about me: 
+My name is Natasha and I am currently a credit sales trader. I have joined this challenge as I enjoy working on data science related challenges and would also love the opprtunity to work at GRAB - a company which I consider to be a true-blue data science data science company. 
 
+Participating in the challenge was a great way for me to learn about the drivers of ride safety (I spoke with a number of people to understand how cars work) and put into practise my knowledge and skills. 
 
 
 
@@ -22,5 +25,5 @@ New features taking into account these 3 key points were created:
  Due to the data being imbalanced I then use SMOTE to make the data less imbalanced. 
 	
 	
-  Following that, I run 3 key machine learning models with hyperparameter tuning using ROC-AUC as a metric. These 3 models are Random Forest, Logistic Regression and XGBoost. I use these models as they are suited the classification task. 
+Following that, I run 3 key machine learning models with hyperparameter tuning using ROC-AUC as a metric. These 3 models are Random Forest, Logistic Regression and XGBoost. I use these models as they are suited the classification task. 
  
